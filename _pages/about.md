@@ -1,8 +1,6 @@
 ---
 layout: about
-title: blank
-first_name: Rohan
-last_name: Narasimhan
+title: Rohan Narasimhan
 permalink: /
 subtitle: 
 
