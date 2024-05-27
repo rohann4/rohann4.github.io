@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Rohan Narasimhan
+title: Home
 permalink: /
 subtitle: 
 
